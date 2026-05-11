@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+memory_ service.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
